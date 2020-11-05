@@ -1,4 +1,12 @@
-## A shor demo of some key features for the shape drawing software which is fully implemented. 
+A fully implemented python module for shapes drawing and management
+===================
+##### Requirements for running, in addition to the standard library and numpy
+- pyclipper, package for polygon boolean operations
+- shapely, package for line offsetting calculations
+
+
+
+# Demo of key features for the software 
 
 ```python
 import numpy as np
