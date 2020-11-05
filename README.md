@@ -1,12 +1,12 @@
 A fully implemented python module for shapes drawing and management
 ===================
 ##### Requirements for running, in addition to the standard library and numpy
-- **pyclipper**, package for polygon boolean operations
-- **shapely**, package for line offsetting calculations
+- **pyclipper**, a package for polygon boolean operations
+- **shapely**, a package for line offsetting calculations
 
 
 
-# Demo of key features for the software 
+# Demo of key features for the software (please also see the demo in HTML file for better viewing experience)
 
 ```python
 import numpy as np
