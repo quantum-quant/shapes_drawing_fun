@@ -6,7 +6,8 @@ A fully implemented python module for shapes drawing and management
 
 
 
-# Demo of key features for the software (please also see the demo in HTML file for better viewing experience)
+## Demo of key features for the software 
+(please also see the demo in HTML file for better viewing experience)
 
 ```python
 import numpy as np
