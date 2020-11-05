@@ -62,7 +62,7 @@ square.view(viewer)
 
 
     
-![png](output_9_0.png)
+![png](plot_output/output_9_0.png)
     
 
 
