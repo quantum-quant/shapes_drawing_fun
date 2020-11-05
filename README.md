@@ -7,7 +7,7 @@ A fully implemented python module for shapes drawing and management
 
 
 ## Demo of key features for the software 
-**See the jupyter notebook which you can yourself; or the HTML file for better read-only viewing experience**
+**See the jupyter notebook which you can run yourself; or the HTML file for better read-only viewing experience**
 
 ```python
 import numpy as np
