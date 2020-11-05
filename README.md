@@ -1,3 +1,5 @@
+## A shor demo of some key features for the shape drawing software which is fully implemented. 
+
 ```python
 import numpy as np
 from shape_drawing import Polygon, Line, PyplotViewer, Canvas
