@@ -106,7 +106,7 @@ diamond.view(viewer)
 
 
     
-![png](output_15_0.png)
+![png](plot_output/output_15_0.png)
     
 
 
@@ -132,7 +132,7 @@ diamond_scaled.view(viewer)
 
 
     
-![png](output_18_0.png)
+![png](plot_output/output_18_0.png)
     
 
 
@@ -177,7 +177,7 @@ rect.view(viewer)
 
 
     
-![png](output_24_0.png)
+![png](plot_output/output_24_0.png)
     
 
 
@@ -191,7 +191,7 @@ square_start.view(viewer)
 
 
     
-![png](output_26_0.png)
+![png](plot_output/output_26_0.png)
     
 
 
@@ -215,7 +215,7 @@ shape_final.view(viewer)
 
 
     
-![png](output_28_0.png)
+![png](plot_output/output_28_0.png)
     
 
 
@@ -248,7 +248,7 @@ transform_tree[3].inputs[0].view(viewer)
 
 
     
-![png](output_32_0.png)
+![png](plot_output/output_32_0.png)
     
 
 
@@ -311,7 +311,7 @@ simple_line.view(viewer)
 
 
     
-![png](output_42_0.png)
+![png](plot_output/output_42_0.png)
     
 
 
@@ -349,7 +349,7 @@ dilated.view(viewer)
 
 
     
-![png](output_46_0.png)
+![png](plot_output/output_46_0.png)
     
 
 
@@ -389,7 +389,7 @@ diamond_plus_line.view(viewer)
 
 
     
-![png](output_51_0.png)
+![png](plot_output/output_51_0.png)
     
 
 
@@ -438,7 +438,7 @@ canvas['my_triangle'].view(viewer)
 
 
     
-![png](output_59_0.png)
+![png](plot_output/output_59_0.png)
     
 
 
@@ -451,7 +451,7 @@ canvas.view(viewer, show_label=True)
 
 
     
-![png](output_61_0.png)
+![png](plot_output/output_61_0.png)
     
 
 
@@ -484,6 +484,6 @@ canvas.view(viewer)
 
 
     
-![png](output_65_0.png)
+![png](plot_output/output_65_0.png)
     
 
